@@ -78,6 +78,8 @@ hi Comment		guifg=#999988
 hi Constant		guifg=#177F80 gui=none
 hi String		guifg=#D81745
 hi Function		guifg=#990000 gui=bold
+hi pythonFunction		guifg=#990000 gui=bold
+hi pythonClass		guifg=#445588 gui=bold
 hi Statement	guifg=#000000 gui=bold
 hi Type			guifg=#445588 gui=bold
 hi Number		guifg=#1C9898
